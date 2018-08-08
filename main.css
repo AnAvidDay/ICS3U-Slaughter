@@ -1,3 +1,6 @@
+/* David Xiao 
+   main.css */
+
 /* Set page background */
 body {
 	background-color: lightgreen;
@@ -20,7 +23,8 @@ html, body {
 	margin: 0px;
 }
 
-/* No scroll bar */
+/* so that we can see both canvas' (they are layered) */
 canvas {
-	display: block;
+	background-color: transparent;
+	position: absolute;
 }
