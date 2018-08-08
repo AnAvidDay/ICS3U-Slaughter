@@ -147,7 +147,7 @@ function Enemy(X, Y) {
 Enemy.prototype.create = function() {
 	ectx.beginPath();
 	ectx.arc(this.X, this.Y, 30, 0, Math.PI*2);
-	ectx.fillStyle = "#0095DD";
+	ectx.fillStyle = "#06895b";
 	ectx.fill();
 	ectx.closePath();
 }
