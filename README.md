@@ -1,2 +1,6 @@
 # ICS3U_FINAL
-zombies run at you.
+game can be found at:
+https://anavidday.github.io/ICS3U_FINAL/.
+
+Game Description:
+Zombies run at you and you shoot them!
